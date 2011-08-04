@@ -1,0 +1,209 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9C93C27E13E989D40039573F /* gtest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C93C27D13E989D40039573F /* gtest.framework */; };
+		9C93C28213E98BD30039573F /* libgtest_main.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C93C28113E98BD30039573F /* libgtest_main.a */; };
+		9C93C2A413E991680039573F /* TEST.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9C93C2A313E991680039573F /* TEST.cpp */; };
+		9C93C2C413E99A940039573F /* Money.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9C93C2C313E99A940039573F /* Money.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9C93C27713E989C60039573F /* ShellTool */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ShellTool; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C93C27D13E989D40039573F /* gtest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = gtest.framework; path = Library/Frameworks/gtest.framework; sourceTree = SDKROOT; };
+		9C93C28113E98BD30039573F /* libgtest_main.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libgtest_main.a; path = /Library/Frameworks/gtest.framework/Versions/A/Resources/libgtest_main.a; sourceTree = "<absolute>"; };
+		9C93C2A313E991680039573F /* TEST.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TEST.cpp; sourceTree = "<group>"; };
+		9C93C2C213E99A940039573F /* Money.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Money.h; sourceTree = "<group>"; };
+		9C93C2C313E99A940039573F /* Money.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Money.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9C93C27513E989C60039573F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C93C27E13E989D40039573F /* gtest.framework in Frameworks */,
+				9C93C28213E98BD30039573F /* libgtest_main.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* Money */ = {
+			isa = PBXGroup;
+			children = (
+				9C93C29A13E98C780039573F /* Source */,
+				9C93C27813E989C60039573F /* Products */,
+				9C93C27D13E989D40039573F /* gtest.framework */,
+				9C93C28113E98BD30039573F /* libgtest_main.a */,
+			);
+			name = Money;
+			sourceTree = "<group>";
+		};
+		9C93C27813E989C60039573F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9C93C27713E989C60039573F /* ShellTool */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9C93C29A13E98C780039573F /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				9C93C2A313E991680039573F /* TEST.cpp */,
+				9C93C2C213E99A940039573F /* Money.h */,
+				9C93C2C313E99A940039573F /* Money.cpp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9C93C27613E989C60039573F /* ShellTool */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9C93C27C13E989C70039573F /* Build configuration list for PBXNativeTarget "ShellTool" */;
+			buildPhases = (
+				9C93C27413E989C60039573F /* Sources */,
+				9C93C27513E989C60039573F /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ShellTool;
+			productName = ShellTool;
+			productReference = 9C93C27713E989C60039573F /* ShellTool */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB919308733D9F0010E9CD /* Build configuration list for PBXProject "Money" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 08FB7794FE84155DC02AAC07 /* Money */;
+			productRefGroup = 9C93C27813E989C60039573F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9C93C27613E989C60039573F /* ShellTool */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9C93C27413E989C60039573F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C93C2A413E991680039573F /* TEST.cpp in Sources */,
+				9C93C2C413E99A940039573F /* Money.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB919408733D9F0010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		1DEB919508733D9F0010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		9C93C27A13E989C70039573F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(LOCAL_LIBRARY_DIR)/Frameworks/gtest.framework/Versions/A/Resources\"",
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ShellTool;
+			};
+			name = Debug;
+		};
+		9C93C27B13E989C70039573F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(LOCAL_LIBRARY_DIR)/Frameworks/gtest.framework/Versions/A/Resources\"",
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ShellTool;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB919308733D9F0010E9CD /* Build configuration list for PBXProject "Money" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB919408733D9F0010E9CD /* Debug */,
+				1DEB919508733D9F0010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9C93C27C13E989C70039573F /* Build configuration list for PBXNativeTarget "ShellTool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9C93C27A13E989C70039573F /* Debug */,
+				9C93C27B13E989C70039573F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

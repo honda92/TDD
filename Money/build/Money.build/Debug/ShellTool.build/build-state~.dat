@@ -1,0 +1,71 @@
+TShellTool
+v7
+r0
+t334074847.491486
+cCheck dependencies
+cCompileC build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o /Users/atsuko/TDD/Money/TEST.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/gtest.framework/Headers/gtest.h
+c000000004E355E600000000000014212
+t1312120416
+s82450
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/gtest.framework/gtest
+c000000004E355E6000000000002FC078
+t1312120416
+s3129464
+
+N/Library/Frameworks/gtest.framework/Versions/A/Resources/libgtest_main.a
+c000000004E355E5B000000000000F530
+t1312120411
+s62768
+
+N/Users/atsuko/TDD/Money/TEST.cpp
+c000000004E395C5D0000000000000100
+t1312382045
+s256
+i<gtest/gtest.h>
+
+N/Users/atsuko/TDD/Money/TEST.h
+c000000004E3959A9000000000000007E
+t1312381353
+s126
+
+N/Users/atsuko/TDD/Money/build/Debug/ShellTool
+t2
+s0
+
+N/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/ShellTool.LinkFileList
+c000000004E395C5D000000000000005B
+t1312382045
+s91
+
+N/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334074845#334074845#0(0"0(0#1#0"8617444032#0"0#
+
+CCompileC build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o /Users/atsuko/TDD/Money/TEST.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s334074845.762189
+e334074847.491426
+r0
+xCompileC
+xbuild/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o
+x/Users/atsuko/TDD/Money/TEST.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Users/atsuko/TDD/Money/TEST.cpp334074845#334074847#0(339"/Users/atsuko/TDD/Money/TEST.cpp: In member function 'virtual void timesTest_Test1_Test::TestBody()':/Users/atsuko/TDD/Money/TEST.cpp:15: error: 'Dollar' was not declared in this scope/Users/atsuko/TDD/Money/TEST.cpp:15: error: expected `;' before 'five'/Users/atsuko/TDD/Money/TEST.cpp:16: error: 'five' was not declared in this scope3(4@39"'Dollar' was not declared in this scope334074847#102#84#0(6@32"/Users/atsuko/TDD/Money/TEST.cpp334074845#15#0#15#0#34"'*' was not declared in this scope0(4@26"Expected `;' before 'five'334074847#186#71#0(6@32"/Users/atsuko/TDD/Money/TEST.cpp334074845#15#0#15#0#19"expected * before *0(4@37"'five' was not declared in this scope334074847#257#82#0(6@32"/Users/atsuko/TDD/Money/TEST.cpp334074845#16#0#16#0#34"'*' was not declared in this scope0(0#0#32"/Users/atsuko/TDD/Money/TEST.cpp8620051776#1128"    cd /Users/atsuko/TDD/Money    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-generated-files.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-own-target-headers.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-all-target-headers.hmap -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-project-headers.hmap -F/Users/atsuko/TDD/Money/build/Debug -I/Users/atsuko/TDD/Money/build/Debug/include -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources/i386 -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources -c /Users/atsuko/TDD/Money/TEST.cpp -o /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o1#
+
+CLd /Users/atsuko/TDD/Money/build/Debug/ShellTool normal i386
+r0
+

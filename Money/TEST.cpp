@@ -1,0 +1,1 @@
+/* *  TEST.cpp *  Money * *  Created by 本田 純子 on 11/08/03. *  Copyright 2011 nara-wu. All rights reserved. * */#include <gtest/gtest.h>#include "Money.h"TEST(timesTest, Test1){	Dollar five = Dollar(5);	five.times(2);	ASSERT_EQ(10, five.amount);}
