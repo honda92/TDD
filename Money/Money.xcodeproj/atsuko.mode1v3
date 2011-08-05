@@ -301,7 +301,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>426 100 788 504 0 0 1280 778 </string>
+						<string>343 128 788 504 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -317,7 +317,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Money.h</string>
+								<string>TEST.cpp</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,17 +325,17 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Money.h</string>
+										<string>TEST.cpp</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9C93C31613EAB5580039573F</string>
+										<string>9C93C33913EB6DF00039573F</string>
 										<key>history</key>
 										<array>
 											<string>9C93C2BE13E994DB0039573F</string>
-											<string>9C93C2DD13E99C010039573F</string>
-											<string>9C93C2DE13E99C010039573F</string>
-											<string>9C93C2F913EAB4960039573F</string>
+											<string>9C93C33213EB6DC50039573F</string>
+											<string>9C93C33313EB6DC50039573F</string>
+											<string>9C93C33413EB6DC50039573F</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -349,7 +349,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {580, 277}}</string>
 								<key>RubberWindowFrame</key>
-								<string>426 100 788 504 0 0 1280 778 </string>
+								<string>343 128 788 504 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -369,7 +369,7 @@
 								<key>Frame</key>
 								<string>{{0, 282}, {580, 181}}</string>
 								<key>RubberWindowFrame</key>
-								<string>426 100 788 504 0 0 1280 778 </string>
+								<string>343 128 788 504 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -542,7 +542,7 @@
 		<string>/Users/atsuko/TDD/Money/Money.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>426 100 788 504 0 0 1280 778 </string>
+	<string>343 128 788 504 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -574,7 +574,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {697, 316}}</string>
 								<key>RubberWindowFrame</key>
-								<string>242 42 697 598 0 0 1280 778 </string>
+								<string>239 180 697 598 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -598,7 +598,7 @@
 								<key>Frame</key>
 								<string>{{0, 321}, {697, 236}}</string>
 								<key>RubberWindowFrame</key>
-								<string>242 42 697 598 0 0 1280 778 </string>
+								<string>239 180 697 598 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXBuildResultsModule</string>
@@ -630,7 +630,7 @@
 			<key>WindowContentMinSize</key>
 			<string>486 300</string>
 			<key>WindowString</key>
-			<string>242 42 697 598 0 0 1280 778 </string>
+			<string>239 180 697 598 0 0 1280 778 </string>
 			<key>WindowToolGUID</key>
 			<string>9C93C29E13E98C890039573F</string>
 			<key>WindowToolIsVisible</key>

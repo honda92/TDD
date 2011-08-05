@@ -1,1 +1,1 @@
-/* *  Money.h *  Money * *  Created by 本田 純子 on 11/08/04. *  Copyright 2011 nara-wu. All rights reserved. * */class Dollar{public:	int amount;		Dollar(int amount){		this->amount = amount;	}		void times(int multiplier){		amount *= multiplier;	}};
+/* *  Money.h *  Money * *  Created by 本田 純子 on 11/08/04. *  Copyright 2011 nara-wu. All rights reserved. * */class Dollar{public:	int amount;		Dollar(int amount){		this->amount = amount;	}		Dollar* times(int multiplier){		return new Dollar(amount*multiplier);	}};
