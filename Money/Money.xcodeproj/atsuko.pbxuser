@@ -119,6 +119,13 @@
 			9C93C35F13EB73180039573F /* PBXTextBookmark */ = 9C93C35F13EB73180039573F /* PBXTextBookmark */;
 			9C93C36013EB73180039573F /* PBXTextBookmark */ = 9C93C36013EB73180039573F /* PBXTextBookmark */;
 			9C93C36113EB73180039573F /* PBXTextBookmark */ = 9C93C36113EB73180039573F /* PBXTextBookmark */;
+			9C93C36713EB74310039573F /* PBXTextBookmark */ = 9C93C36713EB74310039573F /* PBXTextBookmark */;
+			9C93C36813EB74310039573F /* PBXTextBookmark */ = 9C93C36813EB74310039573F /* PBXTextBookmark */;
+			9C93C36C13EB74490039573F /* PBXTextBookmark */ = 9C93C36C13EB74490039573F /* PBXTextBookmark */;
+			9C93C37213EB757D0039573F /* PBXTextBookmark */ = 9C93C37213EB757D0039573F /* PBXTextBookmark */;
+			9C93C37313EB757D0039573F /* PBXTextBookmark */ = 9C93C37313EB757D0039573F /* PBXTextBookmark */;
+			9C93C37413EB757D0039573F /* PBXTextBookmark */ = 9C93C37413EB757D0039573F /* PBXTextBookmark */;
+			9C93C37513EB757D0039573F /* PBXTextBookmark */ = 9C93C37513EB757D0039573F /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9C93C27213E988520039573F /* Source Control */;
 		userBuildSettings = {
@@ -174,9 +181,9 @@
 	};
 	9C93C2A313E991680039573F /* TEST.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 368}}";
-			sepNavSelRange = "{448, 0}";
-			sepNavVisRange = "{120, 355}";
+			sepNavIntBoundsRect = "{{0, 0}, {523, 472}}";
+			sepNavSelRange = "{562, 0}";
+			sepNavVisRange = "{192, 450}";
 		};
 	};
 	9C93C2B213E993F60039573F /* PBXTextBookmark */ = {
@@ -252,9 +259,9 @@
 	};
 	9C93C2C213E99A940039573F /* Money.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 355}}";
-			sepNavSelRange = "{307, 0}";
-			sepNavVisRange = "{118, 220}";
+			sepNavIntBoundsRect = "{{0, 0}, {519, 368}}";
+			sepNavSelRange = "{336, 0}";
+			sepNavVisRange = "{119, 265}";
 		};
 	};
 	9C93C2C313E99A940039573F /* Money.cpp */ = {
@@ -497,7 +504,7 @@
 		fRef = 9C93C2A313E991680039573F /* TEST.cpp */;
 		name = "TEST.cpp: 22";
 		rLen = 0;
-		rLoc = 475;
+		rLoc = 642;
 		rType = 0;
 		vrLen = 279;
 		vrLoc = 29;
@@ -576,7 +583,7 @@
 		fRef = 9C93C2A313E991680039573F /* TEST.cpp */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 27;
+		rLoc = 35;
 		rType = 1;
 	};
 	9C93C35A13EB73030039573F /* PBXTextBookmark */ = {
@@ -584,7 +591,7 @@
 		fRef = 9C93C2A313E991680039573F /* TEST.cpp */;
 		name = "TEST.cpp: 28";
 		rLen = 0;
-		rLoc = 474;
+		rLoc = 495;
 		rType = 0;
 		vrLen = 364;
 		vrLoc = 112;
@@ -628,5 +635,75 @@
 		rType = 0;
 		vrLen = 355;
 		vrLoc = 120;
+	};
+	9C93C36713EB74310039573F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C93C2A313E991680039573F /* TEST.cpp */;
+		name = "TEST.cpp: 27";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 120;
+	};
+	9C93C36813EB74310039573F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C93C2A313E991680039573F /* TEST.cpp */;
+		name = "TEST.cpp: 34";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 223;
+	};
+	9C93C36C13EB74490039573F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C93C2A313E991680039573F /* TEST.cpp */;
+		name = "TEST.cpp: 34";
+		rLen = 0;
+		rLoc = 562;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 223;
+	};
+	9C93C37213EB757D0039573F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C93C2C313E99A940039573F /* Money.cpp */;
+		name = "Money.cpp: 12";
+		rLen = 0;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 141;
+		vrLoc = 0;
+	};
+	9C93C37313EB757D0039573F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C93C2A313E991680039573F /* TEST.cpp */;
+		name = "TEST.cpp: 34";
+		rLen = 0;
+		rLoc = 562;
+		rType = 0;
+		vrLen = 450;
+		vrLoc = 192;
+	};
+	9C93C37413EB757D0039573F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C93C2C213E99A940039573F /* Money.h */;
+		name = "Money.h: 24";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 118;
+	};
+	9C93C37513EB757D0039573F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C93C2C213E99A940039573F /* Money.h */;
+		name = "Money.h: 25";
+		rLen = 0;
+		rLoc = 336;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 119;
 	};
 }
