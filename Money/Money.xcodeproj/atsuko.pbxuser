@@ -70,8 +70,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 334799937;
-			PBXWorkspaceStateSaveDate = 334799937;
+			PBXPerProjectTemplateStateSaveDate = 334800640;
+			PBXWorkspaceStateSaveDate = 334800640;
 		};
 		perUserProjectItems = {
 			9C93C2BE13E994DB0039573F = 9C93C2BE13E994DB0039573F /* PBXTextBookmark */;
@@ -129,6 +129,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = ShellTool;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);

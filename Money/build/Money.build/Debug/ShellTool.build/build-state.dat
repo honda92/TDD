@@ -1,7 +1,7 @@
 TShellTool
 v7
 r0
-t334800336.510133
+t334800996.992458
 cCheck dependencies
 cCompileC build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o /Users/atsuko/TDD/Money/TEST.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 cCompileC build/Money.build/Debug/ShellTool.build/Objects-normal/i386/Money.o /Users/atsuko/TDD/Money/Money.cpp normal i386 c++ com.apple.compilers.gcc.4_2
@@ -34,13 +34,13 @@ s149
 i"Money.h"
 
 N/Users/atsuko/TDD/Money/Money.h
-c000000004E446E4E000000000000029E
-t1313107534
-s670
+c000000004E4470E300000000000002BD
+t1313108195
+s701
 
 N/Users/atsuko/TDD/Money/TEST.cpp
-c000000004E446DF90000000000000456
-t1313107449
+c000000004E446EE70000000000000456
+t1313107687
 s1110
 i<gtest/gtest.h>
 i"Money.h"
@@ -51,11 +51,11 @@ t1312381353
 s126
 
 N/Users/atsuko/TDD/Money/build/Debug/ShellTool
-t1313107536
-s55008
+t1313108196
+s55096
 
 N/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/Money.o
-t1313107535
+t1313108195
 s1372
 
 N/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/ShellTool.LinkFileList
@@ -64,16 +64,16 @@ t1312383880
 s183
 
 N/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o
-t1313107536
-s181504
+t1313108196
+s181968
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies334800335#334800335#0(0"0(0#1#0"8612466496#0"0#
+lSLF07#2@18"Check dependencies334800995#334800995#0(0"0(0#1#0"8599357216#0"0#
 
 CCompileC build/Money.build/Debug/ShellTool.build/Objects-normal/i386/Money.o /Users/atsuko/TDD/Money/Money.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s334800335.027355
-e334800335.074562
+s334800995.513238
+e334800995.574872
 r1
 xCompileC
 xbuild/Money.build/Debug/ShellTool.build/Objects-normal/i386/Money.o
@@ -82,11 +82,11 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@41"Compile /Users/atsuko/TDD/Money/Money.cpp334800335#334800335#0(0"0(0#0#33"/Users/atsuko/TDD/Money/Money.cpp8611752704#1130"    cd /Users/atsuko/TDD/Money    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-generated-files.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-own-target-headers.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-all-target-headers.hmap -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-project-headers.hmap -F/Users/atsuko/TDD/Money/build/Debug -I/Users/atsuko/TDD/Money/build/Debug/include -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources/i386 -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources -c /Users/atsuko/TDD/Money/Money.cpp -o /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/Money.o0#
+lSLF07#2@41"Compile /Users/atsuko/TDD/Money/Money.cpp334800995#334800995#0(0"0(0#0#33"/Users/atsuko/TDD/Money/Money.cpp8614635264#1130"    cd /Users/atsuko/TDD/Money    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-generated-files.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-own-target-headers.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-all-target-headers.hmap -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-project-headers.hmap -F/Users/atsuko/TDD/Money/build/Debug -I/Users/atsuko/TDD/Money/build/Debug/include -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources/i386 -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources -c /Users/atsuko/TDD/Money/Money.cpp -o /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/Money.o0#
 
 CCompileC build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o /Users/atsuko/TDD/Money/TEST.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s334800335.026558
-e334800336.487386
+s334800995.512360
+e334800996.969732
 r1
 xCompileC
 xbuild/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o
@@ -95,15 +95,15 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@40"Compile /Users/atsuko/TDD/Money/TEST.cpp334800335#334800336#0(0"0(0#0#32"/Users/atsuko/TDD/Money/TEST.cpp8612010784#1128"    cd /Users/atsuko/TDD/Money    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-generated-files.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-own-target-headers.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-all-target-headers.hmap -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-project-headers.hmap -F/Users/atsuko/TDD/Money/build/Debug -I/Users/atsuko/TDD/Money/build/Debug/include -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources/i386 -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources -c /Users/atsuko/TDD/Money/TEST.cpp -o /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o0#
+lSLF07#2@40"Compile /Users/atsuko/TDD/Money/TEST.cpp334800995#334800996#0(0"0(0#0#32"/Users/atsuko/TDD/Money/TEST.cpp8612282592#1128"    cd /Users/atsuko/TDD/Money    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-generated-files.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-own-target-headers.hmap -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-all-target-headers.hmap -iquote /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/ShellTool-project-headers.hmap -F/Users/atsuko/TDD/Money/build/Debug -I/Users/atsuko/TDD/Money/build/Debug/include -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources/i386 -I/Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/DerivedSources -c /Users/atsuko/TDD/Money/TEST.cpp -o /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/TEST.o0#
 
 CLd /Users/atsuko/TDD/Money/build/Debug/ShellTool normal i386
-s334800336.487478
-e334800336.510079
+s334800996.969819
+e334800996.992410
 r1
 xLd
 x/Users/atsuko/TDD/Money/build/Debug/ShellTool
 xnormal
 xi386
-lSLF07#2@50"Link /Users/atsuko/TDD/Money/build/Debug/ShellTool334800336#334800336#0(0"0(0#0#0"8603011072#542"    cd /Users/atsuko/TDD/Money    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/atsuko/TDD/Money/build/Debug -L/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/gtest.framework/Versions/A/Resources -F/Users/atsuko/TDD/Money/build/Debug -filelist /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/ShellTool.LinkFileList -mmacosx-version-min=10.6 -framework gtest -lgtest_main -o /Users/atsuko/TDD/Money/build/Debug/ShellTool0#
+lSLF07#2@50"Link /Users/atsuko/TDD/Money/build/Debug/ShellTool334800996#334800996#0(0"0(0#0#0"8602904544#542"    cd /Users/atsuko/TDD/Money    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/atsuko/TDD/Money/build/Debug -L/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/gtest.framework/Versions/A/Resources -F/Users/atsuko/TDD/Money/build/Debug -filelist /Users/atsuko/TDD/Money/build/Money.build/Debug/ShellTool.build/Objects-normal/i386/ShellTool.LinkFileList -mmacosx-version-min=10.6 -framework gtest -lgtest_main -o /Users/atsuko/TDD/Money/build/Debug/ShellTool0#
 
