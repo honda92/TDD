@@ -1,0 +1,8 @@
+/Users/atsuko/TDD/Money/TEST.cpp: In member function 'virtual void timesTest_Test1_Test::TestBody()':
+/Users/atsuko/TDD/Money/TEST.cpp:19: error: no match for 'operator==' in 'five. Dollar::times(2) == object'
+/Users/atsuko/TDD/Money/TEST.cpp: In member function 'virtual void timesTest_Test2_Test::TestBody()':
+/Users/atsuko/TDD/Money/TEST.cpp:27: error: no match for 'operator==' in 'five. Dollar::times(3) == object'
+/Users/atsuko/TDD/Money/TEST.cpp: In member function 'virtual void FranctimesTest_Test1_Test::TestBody()':
+/Users/atsuko/TDD/Money/TEST.cpp:70: error: no match for 'operator==' in 'five. Franc::times(2) == object'
+/Users/atsuko/TDD/Money/TEST.cpp: In member function 'virtual void FranctimesTest_Test2_Test::TestBody()':
+/Users/atsuko/TDD/Money/TEST.cpp:77: error: no match for 'operator==' in 'five. Franc::times(3) == object'
