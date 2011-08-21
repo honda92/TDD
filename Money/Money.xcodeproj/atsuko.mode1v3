@@ -301,7 +301,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>70 118 1111 660 0 0 1280 778 </string>
+						<string>-25 107 1111 660 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -317,7 +317,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Money.cpp</string>
+								<string>Money.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,18 +325,18 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Money.cpp</string>
+										<string>Money.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9C61C2F71401362500CA1CC8</string>
+										<string>9C61C34F14013BE500CA1CC8</string>
 										<key>history</key>
 										<array>
 											<string>9C93C2BE13E994DB0039573F</string>
 											<string>9C93C39113EB79DB0039573F</string>
-											<string>9C61C2F41401362500CA1CC8</string>
-											<string>9C61C2F51401362500CA1CC8</string>
-											<string>9C61C2F61401362500CA1CC8</string>
+											<string>9C61C34C14013BE500CA1CC8</string>
+											<string>9C61C34D14013BE500CA1CC8</string>
+											<string>9C61C34E14013BE500CA1CC8</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -348,14 +348,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {903, 487}}</string>
+								<string>{{0, 0}, {903, 483}}</string>
 								<key>RubberWindowFrame</key>
-								<string>70 118 1111 660 0 0 1280 778 </string>
+								<string>-25 107 1111 660 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>487pt</string>
+							<string>483pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -368,14 +368,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 492}, {903, 127}}</string>
+								<string>{{0, 488}, {903, 131}}</string>
 								<key>RubberWindowFrame</key>
-								<string>70 118 1111 660 0 0 1280 778 </string>
+								<string>-25 107 1111 660 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>127pt</string>
+							<string>131pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -394,9 +394,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>9C61C273140128E800CA1CC8</string>
+				<string>9C61C33714013B2200CA1CC8</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>9C61C274140128E800CA1CC8</string>
+				<string>9C61C33814013B2200CA1CC8</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -538,7 +538,7 @@
 		<string>/Users/atsuko/TDD/Money/Money.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>70 118 1111 660 0 0 1280 778 </string>
+	<string>-25 107 1111 660 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -559,7 +559,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>TEST.cpp</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -617,7 +617,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>9C93C29E13E98C890039573F</string>
-				<string>9C61C25C1401240A00CA1CC8</string>
+				<string>9C61C33914013B2200CA1CC8</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
