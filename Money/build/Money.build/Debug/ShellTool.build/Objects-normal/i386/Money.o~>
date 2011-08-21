@@ -1,0 +1,27 @@
+/Users/atsuko/TDD/Money/Money.cpp:12: error: prototype for 'Money::Money(int, const std::string&)' does not match any in class 'Money'
+/Users/atsuko/TDD/Money/Money.h:19: error: candidates are: Money::Money(const Money&)
+/Users/atsuko/TDD/Money/Money.h:25: error:                 Money::Money(int, std::string&)
+/Users/atsuko/TDD/Money/Money.cpp: In static member function 'static Dollar* Money::dollar(int)':
+/Users/atsuko/TDD/Money/Money.cpp:20: error: no matching function for call to 'Dollar::Dollar(int&, const char [4])'
+/Users/atsuko/TDD/Money/Money.h:41: note: candidates are: Dollar::Dollar(int, std::string&)
+/Users/atsuko/TDD/Money/Money.h:39: note:                 Dollar::Dollar(const Dollar&)
+/Users/atsuko/TDD/Money/Money.cpp: In static member function 'static Franc* Money::franc(int)':
+/Users/atsuko/TDD/Money/Money.cpp:25: error: no matching function for call to 'Franc::Franc(int&, const char [4])'
+/Users/atsuko/TDD/Money/Money.h:49: note: candidates are: Franc::Franc(int, std::string&)
+/Users/atsuko/TDD/Money/Money.h:47: note:                 Franc::Franc(const Franc&)
+/Users/atsuko/TDD/Money/Money.cpp: At global scope:
+/Users/atsuko/TDD/Money/Money.cpp:33: error: prototype for 'Dollar::Dollar(int, const std::string&)' does not match any in class 'Dollar'
+/Users/atsuko/TDD/Money/Money.h:39: error: candidates are: Dollar::Dollar(const Dollar&)
+/Users/atsuko/TDD/Money/Money.h:41: error:                 Dollar::Dollar(int, std::string&)
+/Users/atsuko/TDD/Money/Money.cpp: In constructor 'Dollar::Dollar(int, const std::string&)':
+/Users/atsuko/TDD/Money/Money.cpp:33: error: no matching function for call to 'Money::Money(int&, const std::basic_string<char, std::char_traits<char>, std::allocator<char> >&)'
+/Users/atsuko/TDD/Money/Money.h:25: note: candidates are: Money::Money(int, std::string&)
+/Users/atsuko/TDD/Money/Money.h:19: note:                 Money::Money(const Money&)
+/Users/atsuko/TDD/Money/Money.cpp: At global scope:
+/Users/atsuko/TDD/Money/Money.cpp:42: error: prototype for 'Franc::Franc(int, const std::string&)' does not match any in class 'Franc'
+/Users/atsuko/TDD/Money/Money.h:47: error: candidates are: Franc::Franc(const Franc&)
+/Users/atsuko/TDD/Money/Money.h:49: error:                 Franc::Franc(int, std::string&)
+/Users/atsuko/TDD/Money/Money.cpp: In constructor 'Franc::Franc(int, const std::string&)':
+/Users/atsuko/TDD/Money/Money.cpp:42: error: no matching function for call to 'Money::Money(int&, const std::basic_string<char, std::char_traits<char>, std::allocator<char> >&)'
+/Users/atsuko/TDD/Money/Money.h:25: note: candidates are: Money::Money(int, std::string&)
+/Users/atsuko/TDD/Money/Money.h:19: note:                 Money::Money(const Money&)

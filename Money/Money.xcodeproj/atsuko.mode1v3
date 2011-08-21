@@ -317,7 +317,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Money.h</string>
+								<string>Money.cpp</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,18 +325,18 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Money.h</string>
+										<string>Money.cpp</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9C61C2E9140134FC00CA1CC8</string>
+										<string>9C61C2F71401362500CA1CC8</string>
 										<key>history</key>
 										<array>
 											<string>9C93C2BE13E994DB0039573F</string>
 											<string>9C93C39113EB79DB0039573F</string>
-											<string>9C61C2E6140134FC00CA1CC8</string>
-											<string>9C61C2E7140134FC00CA1CC8</string>
-											<string>9C61C2E8140134FC00CA1CC8</string>
+											<string>9C61C2F41401362500CA1CC8</string>
+											<string>9C61C2F51401362500CA1CC8</string>
+											<string>9C61C2F61401362500CA1CC8</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
